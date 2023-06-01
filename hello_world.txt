@@ -1,3 +1,7 @@
 Hi there, this is my fist Github repository and i like it.
 
-It's been months since i went to Github :}I'm piping/appending this line
+It's been months since i went to Github :}
+I'm piping/appending this line
+
+Yes its me again with the Odin Project.
+It's been months and now I'll be starting a 30 days coding challenge with my buddies and I'll like to finnish my Odin Project curriculum then move on to the JavaScript part.
